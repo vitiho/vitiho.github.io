@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About vitiho.com
+title: About www.vitiho.com
 date: 2017-04-13 21:52
 comments: true
 external-url:
-categories: vitiho.com
+categories: www.vitiho.com
 ---
 
 > *"What is this page?"*. This page is basically a placeholder for the main landing page of vitiho.com domain. The obvious question is why would you put an effort to learn jekyll and then write this whole page creating just another completely useless landing page on the internet? And few other follow up questions would be, what can I expect to find here? And how often will it be updated?
