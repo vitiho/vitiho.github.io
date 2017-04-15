@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About www.vitiho.com
+title: www.vitiho.com
 date: 2017-04-13 21:52
 comments: true
 external-url:
