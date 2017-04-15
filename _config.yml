@@ -1,0 +1,20 @@
+# Site settings
+title: "vitiho.com"
+author: "Tautvydas Bruzas"
+description: "This is a blog or more of a placeholder for my vitiho.com domain."
+keywords: "Tautvydas Bruzas, vitiho.com"
+biography: "I am a Director of IT Operations at the <a href='http://www.acemetrix.com'>Acemetrix Inc</a>. I have a masters degree in a computer science from the <a href='http://www.vu.lt/en/'>Vilnius University</a>. If you'd like to see my full resume you can find it here: <a href='/assets/cv.pdf'>Résumé</a>."
+colophon: <br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a> using <a href='https://github.com/hugoferreira/papyrus-theme/'>papyrus</a> theme."
+
+baseurl: ""
+url: "http://vitiho.com"
+
+github_username: vitiho
+linkedin_username: vitiho
+googleplus: https://plus.google.com/112985530709380695950
+google-analytics: UA-69060-5
+
+simple_search: http://google.com/search
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
