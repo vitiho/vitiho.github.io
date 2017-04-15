@@ -7,7 +7,7 @@ external-url:
 categories: www.vitiho.com
 ---
 
-> *"What is this page?"*. This page is basically a placeholder for the main landing page of vitiho.com domain. The obvious question is why would you put an effort to learn jekyll and then write this whole page creating just another completely useless landing page on the internet? And few other follow up questions would be, what can I expect to find here? And how often will it be updated?
+> *What is this page?*. This page is basically a placeholder for the main landing page of vitiho.com domain. The obvious question is why would you put an effort to learn jekyll and then write this whole page creating just another completely useless landing page on the internet? And few other follow up questions would be, what can I expect to find here? And how often will it be updated?
 
 Well, here I'll give it a shot trying to answer those three questions.
 
